@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reacthello/static/css/main.e8a74c1c.css",
+    "main.js": "/reacthello/static/js/main.c11f7906.js",
+    "static/js/787.3c61cb28.chunk.js": "/reacthello/static/js/787.3c61cb28.chunk.js",
+    "static/media/koala.png": "/reacthello/static/media/koala.9ac263a6c260706bc400.png",
+    "index.html": "/reacthello/index.html",
+    "main.e8a74c1c.css.map": "/reacthello/static/css/main.e8a74c1c.css.map",
+    "main.c11f7906.js.map": "/reacthello/static/js/main.c11f7906.js.map",
+    "787.3c61cb28.chunk.js.map": "/reacthello/static/js/787.3c61cb28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a74c1c.css",
+    "static/js/main.c11f7906.js"
+  ]
+}
